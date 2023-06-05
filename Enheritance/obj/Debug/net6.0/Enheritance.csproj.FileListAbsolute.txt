@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Enheritance\Enheritance\obj\Debug\net6.0\Enheritance.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Enheritance\Enheritance\obj\Debug\net6.0\Enheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Enheritance\Enheritance\obj\Debug\net6.0\Enheritance.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Enheritance\Enheritance\obj\Debug\net6.0\Enheritance.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Enheritance\Enheritance\obj\Debug\net6.0\Enheritance.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Enheritance\Enheritance\bin\Debug\net6.0\Enheritance.exe
+C:\Users\ASUS\source\repos\Enheritance\Enheritance\bin\Debug\net6.0\Enheritance.deps.json
+C:\Users\ASUS\source\repos\Enheritance\Enheritance\bin\Debug\net6.0\Enheritance.runtimeconfig.json
+C:\Users\ASUS\source\repos\Enheritance\Enheritance\bin\Debug\net6.0\Enheritance.dll
+C:\Users\ASUS\source\repos\Enheritance\Enheritance\bin\Debug\net6.0\Enheritance.pdb
+C:\Users\ASUS\source\repos\Enheritance\Enheritance\obj\Debug\net6.0\Enheritance.dll
+C:\Users\ASUS\source\repos\Enheritance\Enheritance\obj\Debug\net6.0\refint\Enheritance.dll
+C:\Users\ASUS\source\repos\Enheritance\Enheritance\obj\Debug\net6.0\Enheritance.pdb
+C:\Users\ASUS\source\repos\Enheritance\Enheritance\obj\Debug\net6.0\Enheritance.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Enheritance\Enheritance\obj\Debug\net6.0\ref\Enheritance.dll
